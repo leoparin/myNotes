@@ -1,0 +1,1 @@
+自己选择->受自我控制->有self-motivation

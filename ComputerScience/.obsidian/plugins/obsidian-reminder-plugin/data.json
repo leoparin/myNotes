@@ -1,0 +1,58 @@
+{
+  "scanned": true,
+  "reminders": {
+    "daily/2022-07-31.md": [
+      {
+        "title": "整理dp笔记",
+        "time": "2022-09-13",
+        "rowNumber": 1
+      },
+      {
+        "title": "java 8 lambda",
+        "time": "2022-09-13",
+        "rowNumber": 2
+      },
+      {
+        "title": "windows shell",
+        "time": "2022-09-15",
+        "rowNumber": 3
+      },
+      {
+        "title": "markdown",
+        "time": "2022-09-15",
+        "rowNumber": 4
+      },
+      {
+        "title": "雅思口语part1、2搞完",
+        "time": "2022-09-18",
+        "rowNumber": 5
+      }
+    ],
+    "daily/2022-08-16.md": [
+      {
+        "title": "java notes",
+        "time": "2022-09-13",
+        "rowNumber": 0
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "09:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

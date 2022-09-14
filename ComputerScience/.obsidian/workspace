@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b33e2f8bd8e6bd28",
+    "type": "split",
+    "children": [
+      {
+        "id": "be943a5a6ab2379f",
+        "type": "leaf",
+        "dimension": 57.09844559585492,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "daily/2022-09-12.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "314f3486a97164b2",
+        "type": "split",
+        "dimension": 42.901554404145074,
+        "children": [
+          {
+            "id": "bea435e1ced40af8",
+            "type": "leaf",
+            "dimension": 26.430976430976433,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily/2022-09-12.md"
+              }
+            }
+          },
+          {
+            "id": "3fabff1bd134901b",
+            "type": "leaf",
+            "dimension": 73.56902356902357,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Permonent/Java （8）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7afc0c158537519f",
+    "type": "split",
+    "children": [
+      {
+        "id": "58ccd51f41f32929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c67187af7106bea9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2fc86d922efc8c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "834b4ca7a33d086e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 168.50078010559082,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a40c4932ba903492",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ace0ea41b0e9831",
+        "type": "tabs",
+        "dimension": 53.41328413284133,
+        "children": [
+          {
+            "id": "a721ed3bd091a52d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily/2022-09-12.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90fbdbfd56fe77c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily/2022-09-12.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "80c9d298e72421de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a2c018a5326f1091",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "a27c1ec2a5a58f85",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2c4ae6ad265456d7",
+        "type": "tabs",
+        "dimension": 46.586715867158674,
+        "children": [
+          {
+            "id": "6b156b440bb93556",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "43e62fe88a8b9cb2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.6734619140625,
+    "collapsed": true
+  },
+  "active": "bea435e1ced40af8",
+  "lastOpenFiles": [
+    "LiteratureNotes/spring.md",
+    "design pattern.md",
+    "Permonent/Java （8）.md",
+    "手把手翻译.md",
+    "LiteratureNotes/linux.md",
+    "超速学习.md",
+    "project.md",
+    "ielts roadmap.md",
+    "LiteratureNotes/html.md",
+    "http.md"
+  ]
+}

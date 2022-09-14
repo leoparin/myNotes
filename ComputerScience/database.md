@@ -1,0 +1,3 @@
+relational database
+nosql:
+cassandra
