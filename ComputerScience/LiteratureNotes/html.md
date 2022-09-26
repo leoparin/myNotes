@@ -1,13 +1,13 @@
-# http:
-## what?
+# 1 http:
+## 1.1 what?
 hypertext transfer protocal
 超链接(hypertext is a word or words that contain a link to a website)传输协议
 
-## why?
+## 1.2 why?
 与html结合实现web交互
 用于在client跟server之间传送超链接
 
-## How?
+## 1.3 How?
 格式：
  - 客户端：method、服务器地址、directory
  - 服务器：statue code
@@ -21,7 +21,11 @@ patch：update局部（修改）
 delete：
 
 
-${ } 放expressions
-
+# 2 html element
 <th> :table head element
+
+<span>: inline container,donot represent anything,for style usage
+
+<br>:line break element
+
 

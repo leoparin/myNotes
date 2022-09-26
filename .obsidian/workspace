@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "8f50825dc14ebf26",
+    "type": "split",
+    "children": [
+      {
+        "id": "00ae7922c901ae9e",
+        "type": "leaf",
+        "dimension": 60.753077480086894,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ComputerScience/ielts writing.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a03552318c9fb5b1",
+        "type": "split",
+        "dimension": 39.246922519913106,
+        "children": [
+          {
+            "id": "2e055a4475ea7c86",
+            "type": "leaf",
+            "dimension": 69.54612005856515,
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ComputerScience/ielts writing.md"
+              }
+            }
+          },
+          {
+            "id": "99d8c2efa85fce4e",
+            "type": "leaf",
+            "dimension": 30.45387994143485,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ComputerScience/Permonent/Java （8）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b291f21223c168e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "93bad19da3070746",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6602ddc7e912ee0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb5b4d88b35a7855",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a11e3e473d28ccbf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 145,
+    "collapsed": true
+  },
+  "right": {
+    "id": "69240d01af623fa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1064d4e273000fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19974c651228f82e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ComputerScience/ielts writing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e05859507af1b4de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ComputerScience/ielts writing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "908c69f71d54ad96",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369,
+    "collapsed": true
+  },
+  "active": "00ae7922c901ae9e",
+  "lastOpenFiles": [
+    "ComputerScience/LiteratureNotes/spring.md",
+    "ComputerScience/Permonent/Java （8）.md",
+    "ComputerScience/ielts writing.md",
+    "信息安全.md",
+    "Spring REST.md",
+    "ComputerScience/LiteratureNotes/html.md",
+    "ComputerScience/database.md",
+    "ComputerScience/machine learning.md",
+    "ComputerScience/ielts roadmap.md",
+    "ComputerScience/Permonent/DataStructure.md"
+  ]
+}

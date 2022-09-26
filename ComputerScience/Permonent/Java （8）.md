@@ -23,6 +23,7 @@ how？
 ## 2.2 interface:
 extends parents class
 implement interface (multi)
+
 ### 2.2.1 functional interface
 #### 2.2.1.1 what?
 only have one abstract method
@@ -35,8 +36,10 @@ used as signature of lambda expression(to represent)
 you should use the signature of the interface to sign for lambda
 
 预设的：
-predicate: < T > ->boolean
+predicate: `<T> ->boolean`
 discriptor:test
+
+### 2.2.2 default interface
 
 ## 2.3 Exceptions
  

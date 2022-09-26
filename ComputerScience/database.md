@@ -1,3 +1,4 @@
-relational database
-nosql:
+# relational database
+
+# nosql:
 cassandra
