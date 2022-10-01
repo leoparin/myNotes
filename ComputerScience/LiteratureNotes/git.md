@@ -16,3 +16,6 @@ git remote set-url origin https://**<githubtoken>@github.com/<username>/<reposit
 git push -u origin main(master)
 
 
+git branch: start a new branch
+
+git checkout: 

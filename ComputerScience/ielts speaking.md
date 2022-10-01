@@ -6,3 +6,14 @@ shoplifters
 
 book:
 website:
+
+
+**Describe a person who impressed you most when you were in primary school**
+**You should say:**
+
+-   Who he/she is;
+-   How you knew him/her;
+-   Why he/she impressed you most
+-   And explain how you feel about him/hero
+
+# part2 questions:

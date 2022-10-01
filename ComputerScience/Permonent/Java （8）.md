@@ -30,9 +30,11 @@ only have one abstract method
 #### 2.2.1.2 why?
 used as signature of lambda expression(to represent)
 #### 2.2.1.3 how?
-`public interface Predicate { 
+```java
+
+public interface Predicate { 
 		boolean test (T t);        -->descriptor of lambda
-}`
+}```
 you should use the signature of the interface to sign for lambda
 
 预设的：

@@ -91,7 +91,13 @@ spring will maintain it for the session,you should also annotate the method with
 @
 
 # 4 核心概念
-## 4.1 SpringMVC：
+## 4.1 Configuration:
+we use configuration class to instruct spring to do specific action(
+create beans  enable certain functionality
+)
+
+
+## 4.2 SpringMVC：
 springWeb框架,核心是controller
 implementation of mvc design pattern
 Model-View-Controller
@@ -122,13 +128,18 @@ servlet:excecute in server
 # 5 Dependency Injection：
 what is dependency?
 a类需要使用b类的function，in Java首先需要创建b对象。这就是a依赖于b
+
 ## 5.1 what ？
 把创建对象的工作给别人做。
+the framework controls the application  at execution.
+
 ## 5.2 why？
 when just one constructor spring applies autowireing through constructor parameter
 降低数据耦合
+
 ## 5.3 how?
 通过annotation注入
+inject the value in the field of the class
 constructor DI
 setter DI
 Ioc container instantiate and scan annotations(@configuraion and @bean)
@@ -177,7 +188,7 @@ Thymeleaf’s @{…} operator for a context-relative path,取图片之类的静�
 ```
 取普通字串，javabean对象，list
 
-## 8.5 \*{...}
+## 8.5 * {...}
 选择变量表达式，相当于把头交给上面去显示
 ```html
 <div th:object="${user}">
