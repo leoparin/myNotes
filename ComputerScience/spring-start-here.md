@@ -54,6 +54,22 @@ Object[] arguments = joinPoint.getArgs();
 前后端不分离：（后端传送html片段，browser只负责显示）
 
 如何交互：http ![[html#^38e58a]]
-how spring understand http?
-tomcat servlet
+## 5.2 how spring understand http?
+### 5.2.1 tomcat 
+#### 5.2.1.1 what?
+servlet container
+#### 5.2.1.2 why?
+spring cannot understand http 
+#### 5.2.1.3 how?
+translate http and response java obj
+接request回复java对象
+本身也是个java instance
 
+## 5.3 how spring web app work
+![[Screen Shot 2022-10-02 at 14.39.44.png]]
+
+# 6 implement a spring mvc app
+## 6.1 spring send data to client
+
+## 6.2 spring get data from client
+small amount:use request parameters(key value pair)

@@ -136,30 +136,55 @@ both countries are projected to see their population grow older in 200, with a s
 above.In spite of these changes, the projection is that the 15-59 age group will be the biggest one in both countries.
 
 ### 1.1.7 dynamic 7
-The charts compares school students who got good scores in five courses in terms of sex in 1996 and 2000.
+The charts compare school students who got good scores in five courses in 1996 and 2000.
+compare boys and girls in terms of their school performance
 
-The proportion of girls who achieved high grades in Languages can see a steep decrease from 45% in 1996 to 30% in 2000, while the figure for boys remained the same.(around 22%)
+1. The proportion of girls who achieved high grades in Languages can see a steep decrease from 45% in 1996 to 30% in 2000, while the figure for boys remained the same.(around 22%)
 
-The same trend can also be seen in Huminities, dropping from 33% to 25%.
+2. There was a similar trend in the arts: the proportion for high-performance boys more than doubled to about 21%, while the figure for their counterparts in this subject decreased to 25%.
 
+3. The percentage of high-achieving boys in languages stood at approximately 21%, in contrast to a dramatic drop from 45% to 31% in the figure for girls.
+
+4. The other two subjects saw a different trend.
+
+5. Maths saw a decline in the figure for high-achieving boys from 30% to 17%, but a three-fold rise in the figure for girls to 15%.
+
+6. There was a similar pattern in the figure for science, dropping to 18% among boys and rising to 11% for girls.
+
+7. Overall, 
+
+Humanities saw a biggest increase in the figure for high-achieveing boys to , in contrast to a sharply drop from 45% to 31% in the figure for girls.
+
+The same trend can also be seen in the high-achieveing girls in Huminities, dropping from 33% to 25%. 
 But the percentage of boys who gain high grades in Huminities saw a dramatic increase(from 22% to 45%), and has become the highest among all five subjects.
 
-Arts saw a modest decrease of females (only 5%), and can see different pattern of boys.
+Arts saw a modest decrease in the figure for females who got impressive grades(only 5%), and can see different pattern of boys.
+
+but three-fold rise in the figure for girls
 
 Other two subjects saw a different trend.
+There were similar patterns in the performance in science and maths for both genders.
 
-The percentage of girls who got good scores in Science increased slightly(from 10% to 11%),while boys saw a sharply decrease.
+There was a similar trend
+
+The percentage of girls who got good scores in Science increased slightly(from 10% to 11%), while boys saw a sharply decrease.
 
 The same pattern can be seen in Maths, the proportion of girls increased, while boys decreased.
 
 Overall, the proportion of girls got good grades in arts, languages and Humanities saw decrease, while the figure for their male counterparts inceased. But the figure for girls achieved high score in Languages remained the highest.
 
+The proportion of boys more than doubled to about 21%
 
+Overall, there was clear gender differences in all these five subjects
 
 ### 1.1.8 static 1
 The chart compares the proportion of male and female students who enrolled in different subjects in 1995 in Australia.
 
-The percentage of female who participated in arts and humanities was the highest, at around 19%, compared to their conterpart at around 13%.
+The bar chart shows the proportions of men and women who studied different subjects in 1995.
+
+The percentage of males attracted by engineering was the highest among all subjects(around 19%), while females who studied                      
+
+The percentage of female who participated in arts and humanities was the highest, at around 19%, compared to their conterparts at around 13%.
 
 The biggest gender gap can saw in the figure of students who chose health,with 15% of females and 4% of males.
 

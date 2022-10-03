@@ -6,11 +6,11 @@
       {
         "id": "00ae7922c901ae9e",
         "type": "leaf",
-        "dimension": 66.38611257233035,
+        "dimension": 59.967845659163984,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ComputerScience/ielts writing.md",
+            "file": "ComputerScience/英文语法.md",
             "mode": "source",
             "source": false
           }
@@ -19,27 +19,27 @@
       {
         "id": "a03552318c9fb5b1",
         "type": "split",
-        "dimension": 33.613887427669646,
+        "dimension": 40.032154340836016,
         "children": [
           {
             "id": "2e055a4475ea7c86",
             "type": "leaf",
-            "dimension": 36.681222707423586,
+            "dimension": 56.670746634026926,
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/ielts writing.md"
+                "file": "ComputerScience/英文语法.md"
               }
             }
           },
           {
             "id": "99d8c2efa85fce4e",
             "type": "leaf",
-            "dimension": 63.31877729257642,
+            "dimension": 43.329253365973074,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/collecotives.md",
+                "file": "ComputerScience/LiteratureNotes/雅思作文.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 155
+    "width": 136
   },
   "right": {
     "id": "69240d01af623fa4",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerScience/ielts writing.md",
+                "file": "ComputerScience/英文语法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerScience/ielts writing.md",
+                "file": "ComputerScience/英文语法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +152,17 @@
     "width": 369,
     "collapsed": true
   },
-  "active": "00ae7922c901ae9e",
+  "active": "2e055a4475ea7c86",
   "lastOpenFiles": [
-    "ComputerScience/spring-start-here.md",
-    "ComputerScience/LiteratureNotes/html.md",
+    "ComputerScience/LiteratureNotes/雅思作文.md",
+    "ComputerScience/英文语法.md",
     "ComputerScience/ielts writing.md",
-    "ComputerScience/project.md",
-    "ComputerScience/collecotives.md",
     "ComputerScience/手把手翻译.md",
-    "ComputerScience/Permonent/Java （8）.md",
     "ComputerScience/ielts speaking.md",
+    "ComputerScience/spring-start-here.md",
     "ComputerScience/LiteratureNotes/spring.md",
-    "ComputerScience/LiteratureNotes/git.md"
+    "ComputerScience/LiteratureNotes/html.md",
+    "ComputerScience/collecotives.md",
+    "ComputerScience/design pattern.md"
   ]
 }
