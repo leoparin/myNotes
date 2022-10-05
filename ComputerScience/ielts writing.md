@@ -27,10 +27,14 @@ The graph compares the quantities of goods in terms of four different modes of t
 
 ## 1.1 顾家北 例子
 ### 1.1.1 dynamic 1
+The charts compares the amount of goods delivered in the UK during the period from 1974 to 2002 in terms of four different means  of transport.
+
 The amount of goods transported by road was the largest, with 70 million tonnes in 1974, and can saw a dramatic increase (around 30%) during the period from to .
 
 高低趋势分段。
-The amount of goods transported by road was the largest,  and can saw a significant increase from around 70 in 1974 to 100 in 2002.
+The amount of goods transported by road was the largest,  and saw a significant increase from around 70 in 1974 to 100 in 2002.
+and had a steep increase(versus )
+
 although it had a slight decline during the period of 1978 to 1982 and 1991 to 1995
 The figure for water was lower throughout this period: there was a upward trend
 from around  in to in ,and 
@@ -44,6 +48,8 @@ it remain at this level in the rest of this period
 Overall, almost all means of transport saw an upward trend in ,while their was a different pattern in rail. Roads transportation delivered more goods than any other means.
 
 The figure for Water was lower throughout this period: it rose forom 39 in 19743 to around 58 in 1982,and stood at this level until 1998, before climbing to aorun 70 in 2022.
+
+Overall, all four means of transportation saw a upward trend in the goods delivery, while there was a different pattern in rail. And road remained the most important way of products transportation.  
 
 ### 1.1.2 dynamic 2
 The graph presents the information of different source of energy consumed in the USA during a 50-year period form to .
@@ -313,7 +319,7 @@ These footpaths also lead to two other new features of the island.
 
 The first is the pier on the southern end, which allows boats to berth. This can make the island more accessible to tourists. The other is a swimming area neext to the beach on the western tip, attracting holidaymakers who are keen to take a dip. In contrast, the eastern part of the island remains basically undeveloped with nothing apart from trees. 
 
-Overall, wile originally untouched, the island now has a variety of facilities which have been built to cater for the needs of touristsm usch as dinning,lodging,yacjting and swimming0-=
+Overall, wile originally untouched, the island now has a variety of facilities which have been built to cater for the needs of touristsm usch as dinning,lodging,yacjting and swimming
 
 ### 1.1.16 map2 big
 The two pictures show the proposed changes to a town named Islip.
@@ -350,7 +356,15 @@ There will also be two new changing room on the southeastern and sourthwestern p
 
 Overall, the biggest change of the sports centre, according to the plan, is that the inner space is set to be extented, and set up couple of new facilities to satisfy people's need.And almost half of the old facilities will remain unchanged.
 
+## 1.2 我写的
+### C17-Test 4-Task 1
+The number of shops closed remained around 6,000 ot 7,000 during the period from 2011 to 2014, and then saw a sharply decrease to 500 in 2015,which was the lowest among all 7 years.The figure then saw a signigicantly increase to 5000 from 2015 to 2016, and stood at this level in the next two year period.
+
+The figure for shop openings was the highest in 2011(around 8500), decreased dramaticly to 4000 in 2012. And the number of new shops made a rebound to 6200 in the next two years. After a decline to 4000 in 2015, the figure for new shops remained at these level form 2015 to 2017, and dropped to 3000 in 2018. 
+
+
 # 2 task2
+
 A healthy lifestyle is important because it can gives people a sense of dignity and a feeling of well-being.Although many people think they have the rights to choose their own lifestyle, I think they will not choose healthy lifestyles without the government intervennes.
 
 Some people hold view that they will be happier if they can decide how to live a life.

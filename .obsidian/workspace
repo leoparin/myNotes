@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ComputerScience/英文语法.md",
+            "file": "ComputerScience/ielts speaking.md",
             "mode": "source",
             "source": false
           }
@@ -24,18 +24,18 @@
           {
             "id": "2e055a4475ea7c86",
             "type": "leaf",
-            "dimension": 56.670746634026926,
+            "dimension": 43.11594202898551,
             "state": {
               "type": "outline",
               "state": {
-                "file": "ComputerScience/英文语法.md"
+                "file": "ComputerScience/ielts speaking.md"
               }
             }
           },
           {
             "id": "99d8c2efa85fce4e",
             "type": "leaf",
-            "dimension": 43.329253365973074,
+            "dimension": 56.88405797101449,
             "state": {
               "type": "markdown",
               "state": {
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 136
+    "width": 166
   },
   "right": {
     "id": "69240d01af623fa4",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerScience/英文语法.md",
+                "file": "ComputerScience/ielts speaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerScience/英文语法.md",
+                "file": "ComputerScience/ielts speaking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +152,17 @@
     "width": 369,
     "collapsed": true
   },
-  "active": "2e055a4475ea7c86",
+  "active": "00ae7922c901ae9e",
   "lastOpenFiles": [
-    "ComputerScience/LiteratureNotes/雅思作文.md",
-    "ComputerScience/英文语法.md",
+    "Linux作业/linux作业二.md",
+    "ComputerScience/LiteratureNotes/linux.md",
     "ComputerScience/ielts writing.md",
-    "ComputerScience/手把手翻译.md",
     "ComputerScience/ielts speaking.md",
-    "ComputerScience/spring-start-here.md",
-    "ComputerScience/LiteratureNotes/spring.md",
-    "ComputerScience/LiteratureNotes/html.md",
+    "ComputerScience/LiteratureNotes/雅思作文.md",
+    "ComputerScience/手把手翻译.md",
     "ComputerScience/collecotives.md",
-    "ComputerScience/design pattern.md"
+    "ComputerScience/英文语法.md",
+    "ComputerScience/spring-start-here.md",
+    "ComputerScience/LiteratureNotes/spring.md"
   ]
 }

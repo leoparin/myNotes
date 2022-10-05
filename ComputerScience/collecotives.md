@@ -138,3 +138,10 @@ make ends meet
 disseminate information
 practitioner
 deputy prime minister
+
+# 5 part 2 词伙
+all the six of world marathon majors
+you can get a guranteed entrance to the race
+cadence：步频
+metronome: 节拍器
+
