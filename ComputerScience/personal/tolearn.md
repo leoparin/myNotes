@@ -1,7 +1,9 @@
 - [ ] 正则（@2022-8-20)
-- [ ] anki software
+- [x] anki software
 - [ ] meditation
-- [ ] time complexity
+- [x] time complexity
 - [ ] running
-- [ ] http methods
-
+- [x] http methods
+- [ ] curl
+- [ ] postman
+- [ ] 

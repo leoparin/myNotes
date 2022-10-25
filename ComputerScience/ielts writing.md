@@ -358,9 +358,9 @@ Overall, the biggest change of the sports centre, according to the plan, is that
 
 ## 1.2 我写的
 ### C17-Test 4-Task 1
-The number of shops closed remained around 6,000 ot 7,000 during the period from 2011 to 2014, and then saw a sharply decrease to 500 in 2015,which was the lowest among all 7 years.The figure then saw a signigicantly increase to 5000 from 2015 to 2016, and stood at this level in the next two year period.
+The number of shops closed remained around 6,000 ot 7,000 during the period from 2011 to 2014, and then saw a sharply decrease to 500 in 2015, which was the lowest among all 7 years.The figure then saw a signigicantly increase to 5000 from 2015 to 2016, and stood at this level in the next two year period.
 
-The figure for shop openings was the highest in 2011(around 8500), decreased dramaticly to 4000 in 2012. And the number of new shops made a rebound to 6200 in the next two years. After a decline to 4000 in 2015, the figure for new shops remained at these level form 2015 to 2017, and dropped to 3000 in 2018. 
+The figure for shop openings was the highest in 2011(around 8500), decreased dramaticly to 4000 in 2012. And the number of new shops made a rebound to 6200 in the next two years. After a decline to 4000 in 2015, the figure for new shops remained at this level form 2015 to 2017, and dropped to 3000 in 2018. 
 
 
 # 2 task2
@@ -404,8 +404,126 @@ In contrast, if those countries relay on financial aid, people would not feel ob
 
 the mass use of machines can improve output of factories to ensure that high=quality pro
 
+## c 17 test 3 task2
+`Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish.
+`Discuss both these views and give your own opinion.  
+`Give reasons for your answer and include any relevant examples from your own knowledge or experience.`
+
+People should be free to choose the country where they want to work. I agree with this opinion, while other people argue that people should be required to work in the country where they receive training.
+
+If people are required to work in their trained country, the country can prevent brain-drain, which will do good to the countries' economy. As we all know, people always want to work in the country which can offer higher salaries and provide more opportunities for people to advance their careers. This will cause the reduction of working people in the country where they get trained and may cause bad effect to the economy. So the policy can be a possible solution to it.
+
+On the other hand, if people can feel free to choose countries to work in, they can show their talents and fulfill their careers. If people want to learn the most advanced technology in their industry, perhaps they should go to another country to learn and work. If the government ask them to stay in their home country, this will curb them achieve their career. For instance, if someone want to become the best programmer, you should work in the silicon valley, they offer the best opportuies.
+
+b 更好行医 c 有利于当地幸福
+a b 与别的国家医生合作学习 c 个人职业发展
+Some people hold view that people who choose engineers and doctors as their professions should be asked to work in their trained country, but others argue that people can have the freedom to choose which country they want to work in. In my opinion, people can work in their country after graduation for a few years, then they can be free to choose other countries to work.
+If people are asked to work in the country where they receive training, the country will have more working people, which can contribute to the country's economy development. People who attend the engineer or docter training are high-tech talents, so they can join their effort to advance their own industry of the country, and this will bring commercial profit to the country.
+On the other hand, if people can feel free to choose counties to work, they can corporate with the doctors from other countires and learn through this process, which will do good to their career advancement.When people go to a new workplace which they are not familiar with, they will learn from local working people and read more materials to adapt to the new environment, and through this they can learn many practical skill which they are not taught in medical school, which will be benefit to their career success.
+In my opinion, people should work in the place where they receive training for couple of years, then they can choose to work wherever they want. As we all know, higher education is a consume of the resource of the society, so people should serve the local place for couple of years to pay back, and they can also learn practical knowledge at the same time.
+In summaries, people work in local place can contribute to the economy growth, and they can learn more by working in other countries.
+
+## c17 
+
+The diagrams show the proposed changes to the Norbiton industrial area.
+
+There used to be almost only factories in the central area of the town, but now, a number of key public facilities is planned to constructed. One of the main change is the road, according to the plan, which will be extended to the other side of the river to the farmland. There will be a new bridge be constructed on the river, which will bring convinence to the houseowners of the other side of the river.
+
+There will be new shops and medical centre, as planning, situated in the centre of the town which used to be factories, and connected to the housing clusters through the vehicle path. And a new school and playground is planned to built on the northern wing of the town.
+
+Overall, there will be more public facilities to replace the old factories, which will satisfy town dwellers' needs, such as education and medication.
+
+
+![[Screen Shot 2022-10-06 at 11.40.38.png]]
+
+![[Screen Shot 2022-10-07 at 11.42.19.png]]
+The diagrams compare the changes to a public park between 1920 and today.
+Visitors in 1920 could enter the park through sourth and north entrances and saw the fountain immediately, which has been removed to make room for a new rose garden. The new rose garden is surounded by four seats areas. To the west of the fountain, they could see a stage for musicians, and there were two rose gardens to the north and sourth of it.The rose gardens each had seats areas on the side. But now in the western of the park, there is a new amphitheatre which function is hold the concert, which replaced amost all old facilities in the western part except for the rose garden in the northern side.  
+If the visitors turn to the east side of the park from the southern entrance in 1920, they would find a glasshouse on their right hand, with seats on its northeast. These were all deconstructed, and a water feature and underground park were created on the site. Rose garden and pond for water plants were on the northeast wing of the park, and have been replaced by a cafe and children play area.
+Overall, there are much more new important facilities in the park today, which can bring convience to the local dwellers. And only one of the rose garden and two entrance remain unchanged.
+
+
+Many advertisers today always use many methods to give people the information that their products are new. I think it is because people want buy new goods to satisfy their needs. And this is a negetive trend in most cases, but can benefit people sometimes.
+
+People have earned more salaries than ever before, and they want new products to satisfy their needs, so businesses tend to emphasise their innovations. Because of the economic boom, people can make a decent living and have expire money to buy consumer goods to bring convinence to their lives. For instance, people buy cleaning robots to free themselves from the heavy housework, so they can spend more quality time with their families. As a result, advertisors who want to boost their sales are likely to give people details about the new functions of their products.
+
+I think this is a negative trend because this will cause people's overconsumption of consumer goods, which might lead to environmental destruction. The advertisors always exaggerate their innovations, so many people buy products they do not really need. This will cause environmental pollution, because the production of the goods created greenhouse gases and the products eventually are thrown into landfill sites which will cause contamination of the soil nearby. 
+
+But on the other hand, these advertisements can give those needy people infromation about the products which they need. In contrast, without these advertisements, people would be confuse about what products can meet their requirement.
+In summaries, the increase of earnings cause advertisors emphasis their innovations, which is negative trend but still have its good aspects.
+
+a 人们觉得新的更好 b 广告商想要增加销量 c 。。
+People today always think the new products are better than old items, so advertisers emphasis the innocations of their products to earn more profits.  
 
 
 
+a 人们追求更好的生活 b 买房可以自由装修 c 买房不租房
+a 人们想要安全感 b 买房不必因为别的原因搬家 c。。。
+a 追求financial safety b 买房是投资 c 。。。
+
+negative
+a 花销大 b 经济困 难 c 
+positive
+a 政府收税 b 建立公共设施 c 有助于人们幸福
 
 
+The diagram gives the information of the process of using sugar cane to producing sugar.
+ The first step is the growing of sugar canes which will last 12-18 months long. And then the crops are havested by machines or manual. The havested sugar canes are sent to the crash machine to create juice,which will be pured to a container.
+ 
+Here comes to the next stage: the juice is then purified by limestone filter. The purified juice is sent to a evaporator, which is heated on fire, to generate syrup subsequently. In the next step, the syrup will be sent to a centrifuge to separate sugar crystals. And finally, the sugar is created by drying and cooling the sugar crystals in a big bucket.
+To summarise, sugar production consists of 7 steps. The sugar in sugar canes are converted to juice and then be purified evaporated and centifuged.
+
+a 小孩子容易被新事物吸引 b 手机有丰富的娱乐内容  c
+a 科技发展人们通过网络做任何事 b 他们通过手机娱乐交友 c
+a 手机能做事 b 他们通过手机交友方便 c 
+a 手机交友用打字 b 失去沟通能力 c n
+
+Because they spend long hours everyday online, they may have no time to have face to face communication with their others. As a result, they may fail to practice and learn new communication skills, so they might loss their communciation skills in long terms.
+
+Children tend to spend long hours on their smart phones, because they lack the supervision of their parents. Parents today always struggle their work and they do not have much time to accompany with their children. Because of the lack of self discipline, children will enteratin themselves whenever they have chance. So they spend long hours on mobile phones, for the simple reason that smartphones can provide a wide range of entertainment, such as social media and video games.
+
+a  b 耽误及时治疗 c 病情恶化
+a  b 浪费钱 c 因为钱用在昂贵。。没钱生活体面
+
+The people who choose to use alternative medicines and treatments when they fail ill have become more than ever. And I think this is a negative trend.
+People who believe in alternative medicines and treatments may miss the best time to receive proper therapy, which will cause the exaggeration of their illness. As we all know, some illness can easily be cured in early stage, but if miss the time it can be hard to heal,such as cancer. And alternative medicines and treatments are always proved invaild. So people who fail ill may miss the best time to cure their diseases in a low cost way.
+
+
+a expensive b 人们选择低糖食物 c less sugar
+a expensive b 养成习惯 c  no less
+
+a gather together b socialise increase liaojie c 
+a different culture have different standard b people tend to choose the music match their interst c
+
+```
+It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.
+
+To what extent do you agree or disagree with this opinion?
+
+What sort of punishment should parents and teachers be allowed to use to teach good behavior to children?
+```
+
+a punishment b avoid do the same thing c tell right from wrong
+because of fair/form the habbit do right thing
+a punishment b rebellious c not tell right from wrong
+overuse of punishment rebellious/insist on doing wrong
+->do adverse impact on family tie
+reduce their screen time
+reduce snacks
+
+a b study with enthusiasm c have happy campus life
+a b eaily find job c earn decent living
+
+
+```
+Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this.
+
+Discuss both these views and give your own opinion.
+```
+
+a copy adults behaviours b parents have more time with kids c
+a teacher have been trained b familiar with teaching method c 
+
+
+# 好句
+with the waste produced increasing nearly twofold from to .

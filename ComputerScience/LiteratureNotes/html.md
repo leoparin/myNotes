@@ -54,6 +54,13 @@ Content-Length: 112 ❷
 </html> ❸
 ```
 
+### 1.3.3 http session
+#### why?
+system need to correlate some requests(shopping cart)
+#### what?
+
+#### how?
+every requests should contain the same session id
 
 # 2 html element
 <th> :table head element

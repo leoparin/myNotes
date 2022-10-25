@@ -4,46 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "da6352be85f9cdce",
-        "type": "leaf",
-        "dimension": 61.34529147982064,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ComputerScience/ielts writing.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a03552318c9fb5b1",
-        "type": "split",
-        "dimension": 38.65470852017937,
+        "id": "4d90ae166967f7a0",
+        "type": "tabs",
+        "dimension": 53.90492359932089,
         "children": [
           {
-            "id": "2e055a4475ea7c86",
+            "id": "da6352be85f9cdce",
             "type": "leaf",
-            "dimension": 65.73849878934624,
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "ComputerScience/ielts writing.md"
-              }
-            }
-          },
-          {
-            "id": "99d8c2efa85fce4e",
-            "type": "leaf",
-            "dimension": 34.261501210653755,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ComputerScience/LiteratureNotes/雅思作文.md",
+                "file": "ComputerScience/spring-start-here.md",
                 "mode": "source",
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "a03552318c9fb5b1",
+        "type": "split",
+        "dimension": 46.09507640067912,
+        "children": [
+          {
+            "id": "92ed9e3b5359857e",
+            "type": "tabs",
+            "dimension": 61.25714285714285,
+            "children": [
+              {
+                "id": "2e055a4475ea7c86",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "ComputerScience/spring-start-here.md"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "c9ac455b5741aeb5",
+            "type": "tabs",
+            "dimension": 38.74285714285715,
+            "children": [
+              {
+                "id": "99d8c2efa85fce4e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ComputerScience/Permonent/Java （8）.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "stacked": true
           }
         ],
         "direction": "horizontal"
@@ -64,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -94,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -111,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerScience/ielts writing.md",
+                "file": "ComputerScience/spring-start-here.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerScience/ielts writing.md",
+                "file": "ComputerScience/spring-start-here.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +174,20 @@
     "width": 369,
     "collapsed": true
   },
-  "active": "2e055a4475ea7c86",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "da6352be85f9cdce",
   "lastOpenFiles": [
-    "ComputerScience/ielts speaking.md",
+    "ComputerScience/personal/tolearn.md",
+    "ComputerScience/spring-start-here.md",
+    "ComputerScience/LiteratureNotes/html.md",
+    "ComputerScience/Permonent/Java （8）.md",
     "ComputerScience/LiteratureNotes/雅思作文.md",
-    "ComputerScience/ielts writing.md",
-    "ComputerScience/LiteratureNotes/Atom Habits.md",
-    "操作系统实验一.pdf",
-    "ComputerScience/personal/scheme.md",
-    "Screen Shot 2022-10-06 at 15.24.20.png",
-    "源代码.pdf",
-    "操作系统实验一.md",
-    "源代码.md"
+    "生时间.md",
+    "ComputerScience/ultra learning plan.md",
+    "ComputerScience/ielts speaking.md",
+    "ComputerScience/LiteratureNotes/spring.md",
+    "ComputerScience/ielts writing.md"
   ]
 }

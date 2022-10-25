@@ -5,6 +5,9 @@ with @Qualifier annotation
 
 # 2 Using abstraction
 ## 2.1 how java use interface decouple dependency
+spring context spring configuration spring instanced(鹦鹉和人)
+通过stereotype加入。
+通过@bean注解在configuration类里面加入
 
 # 3 Bean scope and lifecycle
 ## 3.1 singleton bean scope
@@ -20,21 +23,22 @@ spring can hava multiple instance but name is unique.
 每次调用都创建一个新的bean，适用于冲突的场景（两个thread同时对bean进行修改）
 
 # 4 AOP
-## 4.1 what?
-design pattern
 
-## 4.2 why?
+## 4.1 why?
 decouple some code
 有的代码需要复制多次比如log之类的，可能造成数据深度耦合
 
-## 4.3 how?
+## 4.2 what?
+design pattern
 
+## 4.3 how?
 some concepts:
-aspects:code you want to use
-advice:when to initialise the aspect
-pointcut:method contain usage of aspects
+aspects: code you want to use
+advice: when to initialise the aspect
+pointcut: method contain usage of aspects
 target obj:the bean use aspects
 proxy: if a bean is an aspects target, spring do not give reference to the actual obj but give you a proxy
+joinPoint: 
 weave: 
 
 逻辑：
@@ -54,6 +58,8 @@ Object[] arguments = joinPoint.getArgs();
 前后端不分离：（后端传送html片段，browser只负责显示）
 
 如何交互：http ![[html#^38e58a]]
+### architecture
+
 ## 5.2 how spring understand http?
 ### 5.2.1 tomcat 
 #### 5.2.1.1 what?
@@ -73,3 +79,13 @@ translate http and response java obj
 
 ## 6.2 spring get data from client
 small amount:use request parameters(key value pair)
+
+# 7 spring web scope
+## 7.1 request scope
+
+## 7.2 session scope
+spring matain a session of http for each customer
+
+## 7.3 applicaiton scope
+
+# 8 spring REST

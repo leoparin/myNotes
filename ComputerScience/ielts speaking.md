@@ -5,7 +5,7 @@ year: 1973:ninteen seventy three
 1500:fifteen hundred
 1000: one thousand
 2001: twenty ou one
-two thousand one
+two thousand one 
 # 1 things:
 ## 1.1 movie:
 hirokazu koreeda
@@ -25,3 +25,7 @@ website:
 
 
 # part2 questions:
+
+a parents work b students lack regulation c
+a vivid context of smartphones b addicted c
+a long screen time b no time attend activity c draw up from teachers
