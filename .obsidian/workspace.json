@@ -4,50 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "4d90ae166967f7a0",
-        "type": "tabs",
-        "dimension": 53.90492359932089,
-        "children": [
-          {
-            "id": "da6352be85f9cdce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ComputerScience/spring-start-here.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "a03552318c9fb5b1",
         "type": "split",
-        "dimension": 46.09507640067912,
         "children": [
           {
-            "id": "92ed9e3b5359857e",
-            "type": "tabs",
-            "dimension": 61.25714285714285,
+            "id": "ae52acdcbc4cfde3",
+            "type": "split",
+            "dimension": 61.46993318485523,
             "children": [
               {
-                "id": "2e055a4475ea7c86",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "ComputerScience/spring-start-here.md"
+                "id": "92ed9e3b5359857e",
+                "type": "tabs",
+                "dimension": 55.95854922279793,
+                "children": [
+                  {
+                    "id": "f82fbe24e0bbc366",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "shell.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ]
+              },
+              {
+                "id": "f78a3bb1048c97e5",
+                "type": "tabs",
+                "dimension": 44.04145077720207,
+                "children": [
+                  {
+                    "id": "2e055a4475ea7c86",
+                    "type": "leaf",
+                    "state": {
+                      "type": "outline",
+                      "state": {
+                        "file": "shell.md"
+                      }
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "vertical"
           },
           {
             "id": "c9ac455b5741aeb5",
             "type": "tabs",
-            "dimension": 38.74285714285715,
+            "dimension": 38.530066815144764,
             "children": [
               {
                 "id": "99d8c2efa85fce4e",
@@ -55,7 +62,19 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "ComputerScience/Permonent/Java （8）.md",
+                    "file": "GTD projects.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "81b7dd7a74b6ce9f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ComputerScience/spring-start-here.md",
                     "mode": "source",
                     "source": false
                   }
@@ -132,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ComputerScience/spring-start-here.md",
+                "file": "shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ComputerScience/spring-start-here.md",
+                "file": "shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,20 +193,17 @@
     "width": 369,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "da6352be85f9cdce",
+  "active": "f82fbe24e0bbc366",
   "lastOpenFiles": [
-    "ComputerScience/personal/tolearn.md",
-    "ComputerScience/spring-start-here.md",
-    "ComputerScience/LiteratureNotes/html.md",
-    "ComputerScience/Permonent/Java （8）.md",
-    "ComputerScience/LiteratureNotes/雅思作文.md",
-    "生时间.md",
-    "ComputerScience/ultra learning plan.md",
-    "ComputerScience/ielts speaking.md",
-    "ComputerScience/LiteratureNotes/spring.md",
-    "ComputerScience/ielts writing.md"
+    "linux 作业三.md",
+    "Linux作业/linux作业二.md",
+    "shell.md",
+    "ComputerScience/LiteratureNotes/linux.md",
+    "JavaScript.md",
+    "ComputerScience/LiteratureNotes/深入理解Java.md",
+    "源代码.md",
+    "源代码.pdf",
+    "操作系统实验三.md",
+    "GTD projects.md"
   ]
 }

@@ -9,20 +9,13 @@ anonymous: of unknown name
 string is immutable：for security
 override：子类重写父类函数（参数一样）需要加个@override的annotation
 
-## method chaining
+## 2.1 method chaining
 each method in chain should return an object
-
-## 2.1 factory pattern
-what?
-design pattern,related to OOP
-why?
-数据解耦合，简化对象创建
-how？
-建立工厂类，这个类实现一系列的子类（各种形状），调用get匹配想要的类就可以直接得到对象了，无需调用对应的类。
 
 ## 2.2 interface:
 extends parents class
 implement interface (multi)
+运行时动态设置对象（开始用接口来签名，然后后面在制定对象）
 
 ### 2.2.1 functional interface
 #### 2.2.1.1 what?
@@ -44,8 +37,29 @@ discriptor:test
 ### 2.2.2 default interface
 
 ## 2.3 Exceptions
- 
 
+
+
+## 2.4 static
+### 2.4.1 what?
+key word
+
+### 2.4.2 why?
+some var(global var) and method you do not want to bend to objects
+and some methods should be established before any objects are created
+create a member that can be used by itself, without reference to a specific instance.
+
+### 2.4.3 how?
+Methods declared as static have several restrictions:
+
+• They can only directly call other static methods of their class.  
+• They can only directly access static variables of their class.  
+• They cannot refer to this or super in any way. (The keyword super relates
+
+to inheritance and is described in the next chapter.)
+
+classname.method( )
+classname.obj
 
 # 3 lib
 ## 3.1 junit
@@ -78,12 +92,14 @@ you need functional interface,lambda is inline implementation of functional inte
 List<Apple> greenApples = filterApplesByPredicate(inventory, 
 							(Apple a)->a.color==Color.GREEN);
 
-private static List<Apple> filterApplesByPredicate(List<Apple> inventory,ApplePredicate p) {  
-	List<Apple> result =new ArrayList<>();  
+private static List<Apple> filterApplesByPredicate(
+			List<Apple> inventory,ApplePredicate p
+) {  
+	List<Apple> result = new ArrayList<>();  
 	for(Apple a: inventory) {  
 		if (p.test(a)==true)  //test的参数是lambda的参数
 			result.add(a);  
-	}  
+	}
 	return result;  
 }
 ```
